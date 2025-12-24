@@ -1,0 +1,5 @@
+{
+  "name": "AudibleReader AI",
+  "description": "Convert text and PDF documents into natural-sounding speech using advanced AI voices.",
+  "requestFramePermissions": []
+}
